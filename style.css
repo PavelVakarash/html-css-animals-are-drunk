@@ -1,1 +1,28 @@
-p {color :red;}
+p {
+    color :red;}
+
+h1 
+{color: aquamarine;
+text-align: center;
+}
+
+.subheader {
+    color: fuchsia;
+    text-align: center;
+    font-weight: 900;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.intro {
+    color: fuchsia;
+    text-align: center;
+    font-weight: 900;
+}
+
+.main-text {
+    font-weight: bold;
+}
